@@ -1,0 +1,8 @@
+<payment>
+  <bin>529097</bin>
+<shopperInteraction>Ecommerce</shopperInteraction>
+<amount>0</amount>
+<currency>EUR</currency>
+<txType>Account Validation</txType>
+<riskScore>0</riskScore>
+</payment>

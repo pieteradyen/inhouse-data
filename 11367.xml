@@ -1,0 +1,8 @@
+<payment>
+  <bin>446214</bin>
+<shopperInteraction>Ecommerce</shopperInteraction>
+<amount>1999</amount>
+<currency>EUR</currency>
+<txType>Authorisation</txType>
+<riskScore>-50</riskScore>
+</payment>
